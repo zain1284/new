@@ -1,1 +1,3 @@
-3|3|MYKEY1|
+username1|password1|MYKEY1|<HWID1>
+username2|password2|MYKEY2|<HWID2>
+username3|password3|MYKEY3|<EMPTY (First-time login HWID)>
